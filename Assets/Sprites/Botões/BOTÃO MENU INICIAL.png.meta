@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 9fbba2c1c73fb3d40bd89a5f64fbdaa5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8503627949399580622
+    second: "BOT\xC3O MENU INICIAL_0"
+  - first:
+      213: -1413995527685873916
+    second: "BOT\xC3O MENU INICIAL_1"
+  - first:
+      213: -4251182623650217536
+    second: "BOT\xC3O MENU INICIAL_2"
+  - first:
+      213: 7116460712398003126
+    second: "BOT\xC3O MENU INICIAL_3"
+  - first:
+      213: -7402694006949044321
+    second: "BOT\xC3O MENU INICIAL_4"
+  - first:
+      213: 8529758425294145158
+    second: "BOT\xC3O MENU INICIAL_5"
+  - first:
+      213: -6870347108521854477
+    second: "BOT\xC3O MENU INICIAL_6"
+  - first:
+      213: -7387376330632360951
+    second: "BOT\xC3O MENU INICIAL_7"
+  - first:
+      213: 9156265519415258881
+    second: "BOT\xC3O MENU INICIAL_8"
+  - first:
+      213: 5700374697629819191
+    second: "BOT\xC3O MENU INICIAL_9"
+  - first:
+      213: 1715894297369304027
+    second: "BOT\xC3O MENU INICIAL_10"
+  - first:
+      213: -2464605889427640931
+    second: "BOT\xC3O MENU INICIAL_11"
+  - first:
+      213: 377412472163353693
+    second: "BOT\xC3O MENU INICIAL_12"
+  - first:
+      213: 2452132596107171212
+    second: "BOT\xC3O MENU INICIAL_13"
+  - first:
+      213: 4827479029885253812
+    second: "BOT\xC3O MENU INICIAL_14"
+  - first:
+      213: -5629082757789981735
+    second: "BOT\xC3O MENU INICIAL_15"
+  - first:
+      213: 6187846065423371581
+    second: "BOT\xC3O MENU INICIAL_16"
+  - first:
+      213: -9078517082800257677
+    second: "BOT\xC3O MENU INICIAL_17"
+  - first:
+      213: 3551172867672447447
+    second: "BOT\xC3O MENU INICIAL_18"
+  - first:
+      213: -5500147166055877998
+    second: "BOT\xC3O MENU INICIAL_19"
+  - first:
+      213: -2129810066686589641
+    second: "BOT\xC3O MENU INICIAL_20"
+  - first:
+      213: 346039629403364186
+    second: "BOT\xC3O MENU INICIAL_21"
+  - first:
+      213: 6680347196665968035
+    second: "BOT\xC3O MENU INICIAL_22"
+  - first:
+      213: 3353958324512504175
+    second: "BOT\xC3O MENU INICIAL_23"
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +103,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +112,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +135,29 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -71,7 +165,511 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_0"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661fe4ae8f8866408853f515a0f8874
+      internalID: -8503627949399580622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_1"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 167
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c22926715b7024c905feffa84a5f25
+      internalID: -1413995527685873916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_2"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 167
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c5233c679a116418c3995aedfe0103
+      internalID: -4251182623650217536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_3"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab540fb06177554ebf6023b08e770fc
+      internalID: 7116460712398003126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_4"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391abef203d69640954128ebf0b9341
+      internalID: -7402694006949044321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_5"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 150
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b2e012988a4e4ca15a2d2f3c55180
+      internalID: 8529758425294145158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_6"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35051deb8db73064dbd5c015528a0fc0
+      internalID: -6870347108521854477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_7"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 133
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ebb4cd138c1f45953c0aef1f54822
+      internalID: -7387376330632360951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_8"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 133
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1366ad84a23c47a746f5b0e5d2976
+      internalID: 9156265519415258881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_9"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7f3683caaf514aa7b67bd92f01a4a
+      internalID: 5700374697629819191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_10"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b49d34940e8427439db28136cd2cede
+      internalID: 1715894297369304027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_11"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dd136802359834fb20b41ce0b00bb1
+      internalID: -2464605889427640931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_12"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 86
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac73a367b45594e803ab5eec2b0f30
+      internalID: 377412472163353693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_13"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 86
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924800f5b0595514ebb96e86e046d1d1
+      internalID: 2452132596107171212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_14"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 86
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba156dd10b00148984f4bf1482d34d
+      internalID: 4827479029885253812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_15"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd87c5fab503224c92d42e912dac69c
+      internalID: -5629082757789981735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_16"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a1e144e43c83043b0b1edc5918e8fd
+      internalID: 6187846065423371581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_17"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 69
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e755ecff844a84c88d263772449f62
+      internalID: -9078517082800257677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_18"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 39
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f16cddb4d540ac4088de14c803a574b
+      internalID: 3551172867672447447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_19"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e7de7e4928eb548a5b957b7ae5ad1a
+      internalID: -5500147166055877998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_20"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51fbe498d8672448d292c1a22b6f38
+      internalID: -2129810066686589641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_21"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3f2dcc0e1c5c547820966fd900d657
+      internalID: 346039629403364186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_22"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868acbf20b48ba94a9b6a86069992ba4
+      internalID: 6680347196665968035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BOT\xC3O MENU INICIAL_23"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943265778369c24c8ccf975ebf3d0c7
+      internalID: 3353958324512504175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
