@@ -7,7 +7,7 @@ public class MenuController : MonoBehaviour
 {
     [SerializeField] string currentScene, nextScene;
     [SerializeField]bool canGoMenu, canBackMenu;
-    int indexMenu;
+    static bool creditsToMenu;
 
     [SerializeField] private GameObject[] canvasMenu;
 
@@ -18,19 +18,32 @@ public class MenuController : MonoBehaviour
 
     private void Start()
     {
-        if(currentScene == "Menu")
-        {
-            StartCoroutine(Timer(0));
-        }
+        if(currentScene == "Menu" && !creditsToMenu) StartCoroutine(Timer(0));
+        else if (currentScene == "Credits") canBackMenu = true;
     }
 
     private void Update()
     {
-        StartMenuBehaviour();
+        if (currentScene == "Menu") StartMenuBehaviour();
+        else if (currentScene == "Credits") CreditsBehaviour();
+    }
+
+    void CreditsBehaviour()
+    {
+        if(canBackMenu && Input.GetKeyDown(KeyCode.Escape))
+        {
+            creditsToMenu = true;
+            SceneManager.LoadScene("Menu");
+        }
     }
 
     void StartMenuBehaviour()
     {
+        if (creditsToMenu)
+        {
+            canvasMenu[1].SetActive(true);
+        }
+
         if (canGoMenu)
         {
             print("CanGoMenu Actived!");
@@ -58,7 +71,7 @@ public class MenuController : MonoBehaviour
 
     public void CreditsButton()
     {
-        SceneManager.LoadScene("Credits");
+        SceneManager.LoadScene("Credits"); creditsToMenu = false;
     }
 
     public void ExitButton()

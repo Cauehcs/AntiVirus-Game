@@ -1,7 +1,124 @@
 fileFormatVersion: 2
 guid: 37f3716501f3fe741afaf2ac5eb82577
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2054079064279373107
+    second: "FUNDO CEN\xC1RIO_0"
+  - first:
+      213: 4626796867273841947
+    second: "FUNDO CEN\xC1RIO_1"
+  - first:
+      213: 7290335729833170873
+    second: "FUNDO CEN\xC1RIO_2"
+  - first:
+      213: -2641083976289125619
+    second: "FUNDO CEN\xC1RIO_3"
+  - first:
+      213: -3337364358913701800
+    second: "FUNDO CEN\xC1RIO_4"
+  - first:
+      213: 4765258359194114661
+    second: "FUNDO CEN\xC1RIO_5"
+  - first:
+      213: 865921964776111109
+    second: "FUNDO CEN\xC1RIO_6"
+  - first:
+      213: -5871144338932260865
+    second: "FUNDO CEN\xC1RIO_7"
+  - first:
+      213: 7546181795102196577
+    second: "FUNDO CEN\xC1RIO_8"
+  - first:
+      213: -7767325666398485736
+    second: "FUNDO CEN\xC1RIO_9"
+  - first:
+      213: -7592527015830164071
+    second: "FUNDO CEN\xC1RIO_10"
+  - first:
+      213: -6807284454029919243
+    second: "FUNDO CEN\xC1RIO_11"
+  - first:
+      213: -88972241384238676
+    second: "FUNDO CEN\xC1RIO_12"
+  - first:
+      213: 325566603991899000
+    second: "FUNDO CEN\xC1RIO_13"
+  - first:
+      213: 6702769319606255241
+    second: "FUNDO CEN\xC1RIO_14"
+  - first:
+      213: 8588958492867633557
+    second: "FUNDO CEN\xC1RIO_15"
+  - first:
+      213: 7056142055430870585
+    second: "FUNDO CEN\xC1RIO_16"
+  - first:
+      213: 660820354024746559
+    second: "FUNDO CEN\xC1RIO_17"
+  - first:
+      213: 1405660710264993618
+    second: "FUNDO CEN\xC1RIO_18"
+  - first:
+      213: -1895117295631279840
+    second: "FUNDO CEN\xC1RIO_19"
+  - first:
+      213: 873240070231110060
+    second: "FUNDO CEN\xC1RIO_20"
+  - first:
+      213: -6669149209753854920
+    second: "FUNDO CEN\xC1RIO_21"
+  - first:
+      213: 5884607426480132693
+    second: "FUNDO CEN\xC1RIO_22"
+  - first:
+      213: -7189909242653364981
+    second: "FUNDO CEN\xC1RIO_23"
+  - first:
+      213: -9109244345328029086
+    second: "FUNDO CEN\xC1RIO_24"
+  - first:
+      213: 3035495664652420116
+    second: "FUNDO CEN\xC1RIO_25"
+  - first:
+      213: 6390871217035871877
+    second: "FUNDO CEN\xC1RIO_26"
+  - first:
+      213: -3062989509086644966
+    second: "FUNDO CEN\xC1RIO_27"
+  - first:
+      213: -7991371723103850878
+    second: "FUNDO CEN\xC1RIO_28"
+  - first:
+      213: -3370162259403225561
+    second: "FUNDO CEN\xC1RIO_29"
+  - first:
+      213: -5152360772142807212
+    second: "FUNDO CEN\xC1RIO_30"
+  - first:
+      213: 5952157616549200225
+    second: "FUNDO CEN\xC1RIO_31"
+  - first:
+      213: 7979071704115370421
+    second: "FUNDO CEN\xC1RIO_32"
+  - first:
+      213: -8143497202519774541
+    second: "FUNDO CEN\xC1RIO_33"
+  - first:
+      213: 1879645919962883300
+    second: "FUNDO CEN\xC1RIO_34"
+  - first:
+      213: 5699820668522228128
+    second: "FUNDO CEN\xC1RIO_35"
+  - first:
+      213: 2683202804254132351
+    second: "FUNDO CEN\xC1RIO_36"
+  - first:
+      213: 4189053540801780831
+    second: "FUNDO CEN\xC1RIO_37"
+  - first:
+      213: -4213084105783908807
+    second: "FUNDO CEN\xC1RIO_38"
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +148,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +157,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -58,20 +175,864 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2487
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaaf0959f17e73e0800000000000000
+      internalID: -2054079064279373107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_1"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2487
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5fb9ac3fa53040800000000000000
+      internalID: 4626796867273841947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_2"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2487
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b75b0e68b97c2560800000000000000
+      internalID: 7290335729833170873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_3"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2487
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b7f4bdd1cf85bd0800000000000000
+      internalID: -2641083976289125619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_4"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2487
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85846e43ccc4fa1d0800000000000000
+      internalID: -3337364358913701800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_5"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2133
+        width: 602
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad9b2fa39912240800000000000000
+      internalID: 4765258359194114661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_6"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2133
+        width: 602
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c30b9607f540c00800000000000000
+      internalID: 865921964776111109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_7"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2133
+        width: 603
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff95e49451858ea0800000000000000
+      internalID: -5871144338932260865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_8"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2133
+        width: 603
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163069b7c5c69b860800000000000000
+      internalID: 7546181795102196577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_9"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2133
+        width: 603
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134b8f957ae43490800000000000000
+      internalID: -7767325666398485736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_10"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1777
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de2e1f7ece1a690800000000000000
+      internalID: -7592527015830164071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_11"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1777
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf1880bdaa781a0800000000000000
+      internalID: -6807284454029919243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_12"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1777
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11c65c738e3cef0800000000000000
+      internalID: -88972241384238676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_13"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1777
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bdaa5f915a48400800000000000000
+      internalID: 325566603991899000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_14"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1777
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7482fe25050d50800000000000000
+      internalID: 6702769319606255241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_15"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1422
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59123f53e3c123770800000000000000
+      internalID: 8588958492867633557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_16"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1422
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d6aa70d37ce160800000000000000
+      internalID: 7056142055430870585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_17"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1422
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2efd5c94bb2900800000000000000
+      internalID: 660820354024746559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_18"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1422
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257711ee7f8e18310800000000000000
+      internalID: 1405660710264993618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_19"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1422
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029d2324cd033b5e0800000000000000
+      internalID: -1895117295631279840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_20"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1066
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca133cd973f5e1c00800000000000000
+      internalID: 873240070231110060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_21"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1066
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5b8ed02c6273a0800000000000000
+      internalID: -6669149209753854920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_22"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1066
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55259f1c6435aa150800000000000000
+      internalID: 5884607426480132693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_23"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1066
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d295833af483c90800000000000000
+      internalID: -7189909242653364981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_24"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1066
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262bc70e786759180800000000000000
+      internalID: -9109244345328029086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_25"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 712
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41488d8693f302a20800000000000000
+      internalID: 3035495664652420116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_26"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 712
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58601b8f28fe0b850800000000000000
+      internalID: 6390871217035871877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_27"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 712
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15742815431e75d0800000000000000
+      internalID: -3062989509086644966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_28"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 712
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2b4802c1f81190800000000000000
+      internalID: -7991371723103850878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_29"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 712
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c7dce747ca31d0800000000000000
+      internalID: -3370162259403225561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_30"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45745c51d232f78b0800000000000000
+      internalID: -5152360772142807212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_31"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 357
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610d8df0df4a9250800000000000000
+      internalID: 5952157616549200225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_32"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 357
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9da21a07b5bbe60800000000000000
+      internalID: 7979071704115370421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_33"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 357
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baeb6eb07c7cfe80800000000000000
+      internalID: -8143497202519774541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_34"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 357
+        width: 603
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e466e26108d51a10800000000000000
+      internalID: 1879645919962883300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_35"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a962b6f2b4d91f40800000000000000
+      internalID: 5699820668522228128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_36"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1
+        width: 602
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7846e7fbb6ac3520800000000000000
+      internalID: 2683202804254132351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_37"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c15943002822a30800000000000000
+      internalID: 4189053540801780831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "FUNDO CEN\xC1RIO_38"
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1
+        width: 603
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936e7e1e35e1885c0800000000000000
+      internalID: -4213084105783908807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
